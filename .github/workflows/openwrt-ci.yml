@@ -171,11 +171,6 @@ jobs:
           # CONFIG_PACKAGE_luci-app-sqm is not set
           # CONFIG_PACKAGE_luci-app-ssr-python-pro-server is not set
           # CONFIG_PACKAGE_luci-app-vssr_INCLUDE_ShadowsocksR_Socks is not set
-          # CONFIG_PACKAGE_luci-app-amule is not set
-          # CONFIG_PACKAGE_luci-app-qbittorrent is not set
-          # CONFIG_PACKAGE_luci-app-ramfree is not set
-          # CONFIG_PACKAGE_luci-app-samba is not set
-          # CONFIG_PACKAGE_luci-app-vsftpd is not set
           EOF
 
           # LuCI主题:
